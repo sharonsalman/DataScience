@@ -1,0 +1,5 @@
+D:\Users\Sharon\Documents\GitHub\DataScience\obj\Debug\netcoreapp2.1\DataScience.csproj.AssemblyReference.cache
+D:\Users\Sharon\Documents\GitHub\DataScience\obj\Debug\netcoreapp2.1\DataScience.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Sharon\Documents\GitHub\DataScience\obj\Debug\netcoreapp2.1\DataScience.AssemblyInfoInputs.cache
+D:\Users\Sharon\Documents\GitHub\DataScience\obj\Debug\netcoreapp2.1\DataScience.AssemblyInfo.cs
+D:\Users\Sharon\Documents\GitHub\DataScience\obj\Debug\netcoreapp2.1\DataScience.csproj.CoreCompileInputs.cache
