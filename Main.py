@@ -10,11 +10,9 @@ import time
 options = webdriver.ChromeOptions()
 options.add_experimental_option("detach", True)
 driver = webdriver.Chrome(options=options , service=Service(ChromeDriverManager().install()))
-driver.get('https://www.google.com/')
+driver.get('https://www.nadlan.gov.il/')
 
-search = driver.find_element(By.NAME, 'q')
-search.send_keys("test")
-search.send_keys(Keys.RETURN)
-time.sleep(5)
-
-driver.quit()
+search = driver.find_element(By.ID, 'SearchString')
+search.send_keys("חיפה")
+search_box = driver.find_element(By.ID, 'submitSearchBtn')
+search_box.send_keys(Keys.RETURN)
